@@ -19,9 +19,6 @@
     "url": "https://github.com/angular/angularfire2/issues"
   },
   "homepage": "https://github.com/angular/angularfire2#readme",
-  "dependencies": {
-    "firebase": "3.3.0"
-  },
   "devDependencies": {
     "@angular/platform-server": "^2.1.0-rc.5",
     "@types/request": "0.0.30",
